@@ -21,6 +21,12 @@
 
 ---
 
+### 🔧 Languages I Use Most
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsvnakers&layout=compact&theme=tokyonight)
+
+---
+
 ### 💬 Contact
 
 - 📫 You can reach me via GitHub message~
