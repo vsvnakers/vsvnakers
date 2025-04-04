@@ -28,6 +28,12 @@
 
 ---
 
+### 🐍 GitHub Snake 活动图
+
+![snake gif](https://github.com/vsvnakers/vsvnakers/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 💬 Contact
 
 - 📫 You can reach me via GitHub message~
