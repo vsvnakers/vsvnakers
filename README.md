@@ -7,10 +7,11 @@
 
 ### 📚 About Me
 
-- 🧠 Major: Microelectronics 
+- 🧠 Major: Microelectronics 微电子
 - 💻 Just exploring programming step by step
 - 🐢 I take it slow, but I keep going!
 - 🌈 Always happy to meet nice people here~
+- 🌐 My little corner on the web: [vsvnakers.github.io](https://vsvnakers.github.io) 
 
 ---
 
