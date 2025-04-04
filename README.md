@@ -7,7 +7,7 @@
 
 ### 📚 About Me
 
-- 🧠 Major: Microelectronics 微电子
+- 🧠 Major: Microelectronics 
 - 💻 Just exploring programming step by step
 - 🐢 I take it slow, but I keep going!
 - 🌈 Always happy to meet nice people here~
