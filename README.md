@@ -30,7 +30,7 @@
 
 ### 🐍 GitHub Snake 活动图
 
-![snake gif](https://github.com/vsvnakers/vsvnakers/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vsvnakers/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg)
 
 ---
 
