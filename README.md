@@ -23,7 +23,8 @@
 
 ### 🔧 Languages I Use Most
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsvnakers&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsvnakers&layout=compact&theme=tokyonight&hide=HTML,JavaScript,CSS)
+
 
 ---
 
